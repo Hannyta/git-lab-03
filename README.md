@@ -1,1 +1,1 @@
-Practicas en Git
+Practicas en Git, crear nuevo repositorio, hacer commit y merges, pull y push
